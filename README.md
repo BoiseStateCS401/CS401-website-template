@@ -1,4 +1,4 @@
-# Website Project Starter
+# Website Project Template
 Starter code for webdev project.
 
 To push your changes to GitHub (and Heroku once it is configured properly), use the 
